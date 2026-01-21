@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mogrowang.github.io/tolpblog</id>
+    <title>《光点之旅》官方网站</title>
+    <updated>2026-01-21T18:10:14.399Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mogrowang.github.io/tolpblog"/>
+    <link rel="self" href="https://mogrowang.github.io/tolpblog/atom.xml"/>
+    <logo>https://mogrowang.github.io/tolpblog/images/avatar.png</logo>
+    <icon>https://mogrowang.github.io/tolpblog/favicon.ico</icon>
+    <rights>All rights reserved 2026, 《光点之旅》官方网站</rights>
+    <entry>
+        <title type="html"><![CDATA[TOLP 4.0.001 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/40001dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/40001dev-log/">
+        </link>
+        <updated>2026-01-21T17:56:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>《光点之旅》第四次开发计划 虽迟但到！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《光点之旅》第四次开发计划 虽迟但到！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是告别，而是又一个新开始的预告。]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/plan3-over/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/plan3-over/">
+        </link>
+        <updated>2025-09-03T13:23:37.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>第三次开发计划落下帷幕。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>第三次开发计划落下帷幕。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.006 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30006dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30006dev-log/">
+        </link>
+        <updated>2025-09-03T13:21:28.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>引入音效辣！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>引入音效辣！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.005 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30005dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30005dev-log/">
+        </link>
+        <updated>2025-08-03T14:04:16.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>存档功能来辣！主线内容也开始推进！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>存档功能来辣！主线内容也开始推进！</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎浏览《光点之旅》官方网站！]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/welcome/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/welcome/">
+        </link>
+        <updated>2025-07-09T05:36:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>光点之旅，在此启程！<br>
+<br></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>光点之旅，在此启程！<br>
+<br></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/test/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/test/">
+        </link>
+        <updated>2025-07-08T14:02:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一篇测试文章。<br>
+用于测试。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一篇测试文章。<br>
+用于测试。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.004 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30004dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30004dev-log/">
+        </link>
+        <updated>2025-06-30T15:45:05.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>内部事件继续整理，修 BUG，完善UI。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>内部事件继续整理，修 BUG，完善UI。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.003 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30003dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30003dev-log/">
+        </link>
+        <updated>2025-06-29T14:58:50.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>全面引入自定义光标，内部事件大整理。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>全面引入自定义光标，内部事件大整理。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.002 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30002dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30002dev-log/">
+        </link>
+        <updated>2025-06-19T12:50:06.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>新增传送转场，初步引入自定义光标。<br>
+还有修 BUG。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>新增传送转场，初步引入自定义光标。<br>
+还有修 BUG。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.0.001 DEV 更新日志]]></title>
+        <id>https://mogrowang.github.io/tolpblog/post/30001dev-log/</id>
+        <link href="https://mogrowang.github.io/tolpblog/post/30001dev-log/">
+        </link>
+        <updated>2025-06-14T12:45:35.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>第三次开发计划开始！<br>
+各页面更新UI。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>第三次开发计划开始！<br>
+各页面更新UI。</p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
